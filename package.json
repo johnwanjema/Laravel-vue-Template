@@ -25,7 +25,7 @@
     },
     "dependencies": {
         "bootstrap-vue": "^2.15.0",
-        "moment": "^2.27.0",
+        "moment": "^2.29.4",
         "sweetalert2": "^9.15.2",
         "vform": "^1.0.1",
         "vue-loading-overlay": "^3.3.2",
